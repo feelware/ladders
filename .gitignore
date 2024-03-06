@@ -12,4 +12,4 @@
 *.vsix
 
 *.txt
-./build/
+.build/
